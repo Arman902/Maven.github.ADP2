@@ -1,4 +1,4 @@
-package com.adp3.submissions;
+package com.adp2.submissions;
 
 import static org.junit.Assert.assertTrue;
 
